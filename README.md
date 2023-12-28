@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-raswan/)
 
-# 📊 Stats:
+## 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sraswan&theme=prussian&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRaswan&theme=prussian&include_all_commits=true&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRaswan&theme=solarized)
